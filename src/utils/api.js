@@ -1,8 +1,13 @@
 import axios from "axios";
 
 
+<<<<<<< HEAD
 //const Endpoint = "https://024776d84f2b.ngrok.io"
 const Endpoint = "http://localhost:3030"
+=======
+const Endpoint = "https://462ed0c972d2.ngrok.io"
+//const Endpoint = "http://localhost:3030"
+>>>>>>> upstream/master
 
 export default { 
 
